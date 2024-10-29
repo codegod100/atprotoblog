@@ -5,7 +5,7 @@
 
 <main class="container wrap">
   <div class="mb-6">
-    <div class="is-size-1"><a href="/">nandi's blog</a></div>
+    <div class="is-size-1"><a href="./">nandi's blog</a></div>
     <div>
       <a
         href="https://atproto-browser.vercel.app/at/did:plc:ngokl2gnmpbvuvrfckja3g7p/com.whtwnd.blog.entry"
