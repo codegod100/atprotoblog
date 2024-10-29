@@ -52,7 +52,7 @@
     </div>
   </div>
   {#each entries as entry}
-    <div class="has-background-black-ter mb-3">
+    <div class="has-background-black-ter mb-3 p-2">
       <div class="is-size-2">{entry.value.title}</div>
       <div class="mb-5">{moment(entry.value.createdAt).fromNow()}</div>
       <div>{@html marked.parse(entry.value.content)}</div>
