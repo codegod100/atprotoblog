@@ -41,7 +41,7 @@
   });
 </script>
 
-<main class="container">
+<main class="container wrap">
   <div class="mb-6">
     <div class="is-size-1">nandi's blog</div>
     <div>
@@ -59,3 +59,10 @@
     </div>
   {/each}
 </main>
+
+<style>
+  .wrap {
+    /* max-width: 50%; */
+    overflow-wrap: break-word;
+  }
+</style>
