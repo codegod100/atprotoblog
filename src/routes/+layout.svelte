@@ -9,7 +9,7 @@
     <div>
       <a
         href="https://atproto-browser.vercel.app/at/did:plc:ngokl2gnmpbvuvrfckja3g7p/com.whtwnd.blog.entry"
-        >https://atproto-browser.vercel.app/at/did:plc:ngokl2gnmpbvuvrfckja3g7p/com.whtwnd.blog.entry</a
+        >at://did:plc:ngokl2gnmpbvuvrfckja3g7p/com.whtwnd.blog.entry</a
       >
     </div>
   </div>
